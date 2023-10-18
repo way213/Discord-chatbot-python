@@ -1,7 +1,5 @@
 # Discord-chatbot-python
 
-a discord chat bot that uses modules such as discord and beautifulsoup
-
-Also accesses https://zenquotes.io/ via an API to speak with the user
+a discord chat bot that uses BeautifulSoup and accesses https://zenquotes.io/ via an API to speak words of encouragement with the user
 
 Utilizes a .env file to hide token ID of bot
